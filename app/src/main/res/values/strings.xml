@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Manus-Free AI</string>
+    <string name="send_message">שלח הודעה</string>
+    <string name="message_hint">כתוב הודעה...</string>
+    <string name="search_web">חיפוש ברשת</string>
+    <string name="help">עזרה</string>
+    <string name="welcome_message">שלום! אני Manus-Free, עוזר AI אמיתי. איך אני יכול לעזור לך?</string>
+</resources>
+
